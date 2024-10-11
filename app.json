@@ -1,4 +1,9 @@
 {
   "name": "demosampleapp",
-  "displayName": "demosampleapp"
+  "displayName": "demosampleapp",
+  "extra": {
+    "eas": {
+      "projectId": "6b5ccf2e-7cb7-4354-a4e3-db31c9304843"
+    }
+  }
 }
